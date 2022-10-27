@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "img":"https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
+        "title": "Build Web Apps with React & Firebase",
+        "short_dis":"Learn React from the ground up to make dynamic websites (includes Context, Hooks, Reducers, Routing, Auth, Databases",
+        
+        "key": "68de634f7098",
+        "learn": {
+          "tex1": "Learn how to create modern & dynamic React websites from the ground up",
+          "text2": "Learn about Components, Props, Hooks, Context, State, Reducers & the React Router",
+          "text3": "Learn how to implement a database, authentication & file uploads with React & Firebas"
+          },
+        "includes": {
+            "hour": "23.5 hours of video",
+            "lessons":"13 articles + resources",
+            "certificate":"Certificate of completion"
+    
+        },
+        "course":{
+            "content1":"React Basics",
+            "content2":"React Routing & Hooks",
+            "content3":"Fetching Data & useEffect",
+            "content4":"Project buid"
+        },
+        "requirment":"Basic knowledge of JavaScript, HTML & CSS",
+        "description":"Once you've mastered React, we'll take our websites to the next level by integrating them with Firebase - a backend as a service.You'll learn how to add services such as a real-time database & authentication into your React sites as well as how to allow end-users to upload files from their computers with the help of Firebase.Finally, I'll teach you how to build & deploy your React sites to the web using Firebase Hosting.By the end of the course you'll have a solid understanding of React & be able to make your own production-ready websites!",
+    
+        "author": "The Net Ninja",
+        "updatedAt": "2022-06-12",
+        "rating":4.7,
+        "price":"$84.00"
+    },
+    {
+        "id": 2,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxPW995UB1hSxk2Am-wv47AEjREyWLaeC0A&usqp=CAU",
+        "title": "CSS - The Complete Guide 2022",
+        "short_dis":"Learn CSS for the first time or brush up your CSS skills and dive in even deeper. EVERY web developer has to know CSS.",
+        
+        "key": "68de634f708",
+        "learn": {
+          "tex1": "Learn why CSS is amazing, not something to be afraid of!",
+          "text2": "Flexbox, grid, animations, transitions, fonts, media queries and much more - it's all included!",
+          "text3": "Build beautiful websites which don't just contain great content but also look good"
+          },
+        "includes": {
+            "hour": "22.5 hours of video",
+            "lessons":"14 articles + resources",
+            "certificate":"Certificate of completion"
+    
+        },
+        "course":{
+            "content1":"Css Basics",
+            "content2":"Flexbox and Grid",
+            "content3":"Css features element",
+            "content4":"Project buid"
+        },
+        "requirment":"You should know the very basics about HTML and web development in general",
+        "description":" This course offers the theory and practical examples - we'll build an entire real course project throughout the course - but there also are multiple assignments, quizzes and challenges for you to practice individual concepts taught throughout the course",
+    
+        "author": "Kunfu Panda",
+        "updatedAt": "2022-06-12",
+        "rating":4.5,
+        "price":"$83.00"
+    },
+    {
+        "id": 3,
+        "img":"https://res.cloudinary.com/practicaldev/image/fetch/s--Lvl1ZNKy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ph7yc1i1vqqgwpxegw5.png",
+        "title": "The Complete Node.js Developer Course ",
+        "short_dis":"Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more!",
+        
+        "key": "6de634f7098",
+        "learn": {
+          "tex1": "Create Express web servers and APIs",
+          "text2": "Build, test, and launch Node apps",
+          "text3": "Store data with Mongoose and MongoDB and Deploy your Node apps to production"
+          },
+        "includes": {
+            "hour": "21.5 hours of video",
+            "lessons":"15 articles + resources",
+            "certificate":"Certificate of completion"
+    
+        },
+        "course":{
+            "content1":"Installing and exploring node js",
+            "content2":"Node modules and file system",
+            "content3":"Fetching Data & Api",
+            "content4":"Project buid"
+        },
+        "requirment":"A basic understanding of JavaScript (variables, functions, objects, arrays, if statements)",
+        "description":"The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB.he entire course is based around a single goal: Turning you into a professional Node developer capable of developing, testing, and deploying real-world production applications.",
+    
+        "author": "The Net Ninja",
+        "updatedAt": "2022-06-12",
+        "rating":4.7,
+        "price":"$84.00"
+    },
+    {
+        "id": 4,
+        "img":"http://www.webdevelopmenthelp.net/wp-content/uploads/2015/09/HTML55.png",
+        "title": "Learn HTML5 Programming From Scratch",
+        "short_dis":"A Complete HTML5 Programming Course for Beginners",
+        
+        "key": "68de4f7098",
+        "learn": {
+          "tex1": "By the end of the course you will be able to create full fledged HTML5 websites",
+          "text2": "You will have through understanding of both HTML and CSS",
+          "text3": "You will be able to create web applications for mobile phones as well"
+          },
+        "includes": {
+            "hour": "23.5 hours of video",
+            "lessons":"13 articles + resources",
+            "certificate":"Certificate of completion"
+    
+        },
+        "course":{
+            "content1":"Introduction to HTML5",
+            "content2":"Forms,table,tags",
+            "content3":"HTML5 advance features",
+            "content4":"Project buid"
+        },
+        "requirment":"Any HTML editor and HTML5 compatible web browser",
+        "description":"This is the complete HTML5 course you will need to get started with HTML5 application development. The simplicity and its content have made it one of the most popular HTML5 courses on the planet.",
+    
+        "author": "The Net Tiger",
+        "updatedAt": "2022-06-12",
+        "rating":4.7,
+        "price":"$84.00"
+    },
+    {
+        "id": 5,
+        "img":"https://4.bp.blogspot.com/-s2EhTt57oeU/XHtQtO1QNLI/AAAAAAAANW8/KYkPQEZUyocSpA2RzqCcVt31imXPi63RACLcBGAs/s1600/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
+        "title": "The Complete JavaScript Course 2022",
+        "short_dis":"The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        
+        "key": "68de634faa7098",
+        "learn": {
+          "tex1": "Become an advanced, confident, and modern JavaScript developer from scratch",
+          "text2": "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc., Reducers & the React Router",
+          "text3": "Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs"
+          },
+        "includes": {
+            "hour": "26.5 hours of video",
+            "lessons":"13 articles + resources",
+            "certificate":"Certificate of completion"
+    
+        },
+        "course":{
+            "content1":"Java script fundamentals",
+            "content2":"Loops,variables,Arrays",
+            "content3":"DOM manupulation",
+            "content4":"Project buid"
+        },
+        "requirment":"A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course",
+        "description":"JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer.",
+    
+        "author": "The Net Ninja",
+        "updatedAt": "2022-06-12",
+        "rating":4.7,
+        "price":"$84.00"
+    },
+    {
+        "id": 6,
+        "img":"https://stackpython.co/media/course/python-programming-basic.png",
+        "title": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+        "short_dis":"Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+        
+        "key": "68depp634faa7098",
+        "learn": {
+          "tex1": "You will build games and programs that use Python libraries",
+          "text2": "You will be able to use Python for your own work problems or personal projects",
+          "text3": "Build a complete understanding of Python from the ground up"
+          },
+        "includes": {
+            "hour": "20.5 hours of video",
+            "lessons":"13 articles + resources",
+            "certificate":"Certificate of completion"
+    
+        },
+        "course":{
+            "content1":"Python Setup",
+            "content2":"Loops,variables,Arrays",
+            "content3":"Advanced python modules",
+            "content4":"Project buid"
+        },
+        "requirment":"Access to a computer with an internet connection.",
+        "description":"Become a Python Programmer and learn one of employer's most requested skills of 2022!. This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3",
+    
+        "author": "The Net Ninja",
+        "updatedAt": "2022-06-12",
+        "rating":4.7,
+        "price":"$84.00"
+    }
+]
